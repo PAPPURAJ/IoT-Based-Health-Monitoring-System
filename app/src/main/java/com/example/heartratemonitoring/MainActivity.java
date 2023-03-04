@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 tempH=Math.max(tempH,convert(report[2]));
                 tempL=Math.min(tempL,convert(report[2]));
 
+
                 spo2+="\n"+report[1];
                 spo2Tv.setText(spo2);
                 spo2H=Math.max(spo2H,convert(report[1]));
