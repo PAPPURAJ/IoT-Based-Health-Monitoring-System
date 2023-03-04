@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120634727426",
+    "firebase_url": "https://heartrate-69b79-default-rtdb.firebaseio.com",
+    "project_id": "heartrate-69b79",
+    "storage_bucket": "heartrate-69b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120634727426:android:dd2e739afed3b07468db1b",
+        "android_client_info": {
+          "package_name": "com.example.heartratemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120634727426-r5c90lh9eu4p13lnsq7dl95s9k6v956r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjCn4eD-oWUkR_n-Hbf0jL9bKe8guKBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120634727426-r5c90lh9eu4p13lnsq7dl95s9k6v956r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
